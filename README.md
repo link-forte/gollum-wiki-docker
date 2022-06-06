@@ -2,3 +2,4 @@
 
 - メモの置き場所として個人用wikiが欲しかったのでgitlabで使われているgollumを試すためのtemplate
 - 適当なディレクトリにcloneしてmakeするとlocalhost:4567で繋がって使えるようになるので記事だけgithub等で管理する
+- ブランチ名がmasterでないとgollumでエラーが出るかもしれないのでmainでなくmasterで使って
